@@ -1,0 +1,1 @@
+ C:\\Users\\chaoa\\OneDrive\\Desktop\\session\\bmi\\.dart_tool\\flutter_build\\15b007954904960ed4ddbe2ef96cfd6a\\native_assets.yaml: 
